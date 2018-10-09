@@ -1,3 +1,19 @@
+Udacity project 1 submittal.
+
+This is my project 1. It includes a Book search application. to run, type npm install and npm start. The project should hit all criteria, however, it should be noted that the ComponentDidMount function on the Book component throws an error. However, removing this doesn't allow the state to be saved.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MyReads Project
 
 This is the starter template for the final assessment project for Udacity's React Fundamentals course. The goal of this template is to save you time by providing a static example of the CSS and HTML markup that may be used, but without any of the React code that is needed to complete the project. If you choose to start with this template, your job will be to add interactivity to the app by refactoring the static code in this template.
