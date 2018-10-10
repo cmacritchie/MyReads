@@ -1,6 +1,6 @@
 Udacity project 1 submittal.
 
-This is my project 1. It includes a Book search application. to run, type npm install and npm start. The project should hit all criteria, however, it should be noted that the ComponentDidMount function on the Book component throws an error. However, removing this doesn't allow the state to be saved.
+This is my project 1. It includes a Book search application. to run, type npm install and npm start in the source folder. The project should hit all criteria, however, it should be noted that the ComponentDidMount function on the Book component throws an error. However, removing this doesn't allow the state to be saved in the search page. The rest of the MyReads file has been left as default. 
 
 
 
